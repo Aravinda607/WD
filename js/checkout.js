@@ -59,7 +59,7 @@ function save2(){
 
 }
 function back(){
-    window.location.href ="/Student1_Bimsara/buy/buy.html";
+    window.location.href ="shop.html";
 }
  
 function save3(){
